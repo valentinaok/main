@@ -1,0 +1,15 @@
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\bin\Debug\net6.0\exmpl_002_HelloUser.exe
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\bin\Debug\net6.0\exmpl_002_HelloUser.deps.json
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\bin\Debug\net6.0\exmpl_002_HelloUser.runtimeconfig.json
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\bin\Debug\net6.0\exmpl_002_HelloUser.dll
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\bin\Debug\net6.0\exmpl_002_HelloUser.pdb
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.AssemblyInfo.cs
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.dll
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\refint\exmpl_002_HelloUser.dll
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.pdb
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\exmpl_002_HelloUser.genruntimeconfig.cache
+C:\Users\Valentina\exmpls\exmpl_001_HelloConsole\exmpl_002_HelloUser\obj\Debug\net6.0\ref\exmpl_002_HelloUser.dll
